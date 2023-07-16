@@ -9,3 +9,7 @@ Create a user-friendly hotel booking website that makes it simple for customers 
 <img width="960" alt="image" src="https://github.com/harsh5660/Hotel-Booking-Website/assets/84218738/54121fce-57de-4c93-9a09-a5c4870d7603">
 ![image](https://github.com/harsh5660/Hotel-Booking-Website/assets/84218738/58016852-1308-4a58-bee7-af5d0d9b8ea0)
 ![image](https://github.com/harsh5660/Hotel-Booking-Website/assets/84218738/1c1afc2b-f5c6-4ada-a18f-d86051bd29ab)
+![image](https://github.com/harsh5660/Hotel-Booking-Website/assets/84218738/247a850f-3b09-41e0-926d-946123530f2d)
+![image](https://github.com/harsh5660/Hotel-Booking-Website/assets/84218738/0f132fb4-918e-4b19-ba30-83820609864a)
+<img width="960" alt="image" src="https://github.com/harsh5660/Hotel-Booking-Website/assets/84218738/26d81e62-7b39-4244-a0a7-c024951b6a0e">
+<img width="960" alt="image" src="https://github.com/harsh5660/Hotel-Booking-Website/assets/84218738/eb2c3b11-0e85-4338-b795-957e96b3af02">
